@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "uns-package"
+version = "0.1.0"
+description = "Unsupervised package for lab 1 Machine Learning II"
+authors = ["wacGitHub07 <walterac91@gmail.com>"]
+readme = "README.md"
+packages = [{include = "uns_package", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+scikit-learn = "^1.2.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.22.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
