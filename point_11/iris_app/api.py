@@ -26,7 +26,7 @@ class requestIris(Resource):
     """
     Class defined as resource in the api
     - Read the params and compute the predictions
-    - Return the prediction as json object
+    - Return the prediction as a json object
     """
 
     def get(self):

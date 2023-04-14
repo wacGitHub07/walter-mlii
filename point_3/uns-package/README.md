@@ -9,9 +9,9 @@ This package contains the implementation of three algorithms for dimensionality 
 - TSNE
 
 **Details:**
-- SVD algorithm was implemented with two methos: power iterate as principal method ans calculating the right and left eigenvalues and vectors as auxiliar method. This is because in tests the power iterate method only worked with sqare matrices.
+- SVD algorithm was implemented with two methos: power iterate as principal method and calculating the right and left eigenvalues and vectors as auxiliar method. This is because in tests in the power iterate method only worked with sqare matrices.
 - PCA was computed by centralizing the data,  calculating  eigenvalues and vectors and covariance matrix 
-- STNE was computed following the traditional definition
+- TSNE was computed following the traditional definition
 - SVD and PCA have fit(), transform() and fit_transform() methods, TSNE only has fit_transform() method due its algorithm characteristics 
 
 **Dependences:**
