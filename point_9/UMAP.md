@@ -2,7 +2,7 @@
 
 ## Definition
 
-UMAP is a novel manifold learning technique fordimension reduction. UMAPisconstructed from atheoretical framework based in Riemannian geometry and algebraic topology. Œe result is a practical scalable algorithm that is applicable to real world data. UMAP algorithm is competitive with t-SNE for visualization quality, and arguably preserves more of the global structure with superior run time performance.
+UMAP is a novel manifold learning technique for dimension reduction. UMA Pisconstructed from a theoretical framework based in Riemannian geometry and algebraic topology. Œe result is a practical scalable algorithm that is applicable to real world data. UMAP algorithm is competitive with t-SNE for visualization quality, and arguably preserves more of the global structure with superior run time performance.
 
 ## How UMAP works?
 
