@@ -1,10 +1,10 @@
-# walter-mlii-lab1
-This repository contains the solution to lab I of the machine learning II course, UdeA 2023.
+# walter-mlii
+
+This repository contains the solution to labs of the machine learning II course, UdeA 2023.
 
 **Auhor:** Walter Arboleda Castañeda
 
-The solution to the points is organized in folders as follows:
-
+## Laboratory_1
 - **point 1**: Contains the solution to: rank, trace, determinant, eigenvalues and eigenvectors.
 - **point 2**: Contains the folder with the profile pictures of the cohort and the solution to resize image, change to gray scale and calculate the difference between my personal photo vs the average of the cohort.
 - **point 3**: contains the unsupervised python package builded with poetry. Inside it there are the implementations to SVD, PCA and TSNE algorthmns and the .whl file to instalations.
