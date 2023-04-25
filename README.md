@@ -5,6 +5,7 @@ This repository contains the solution to labs of the machine learning II course,
 **Auhor:** Walter Arboleda Castañeda
 
 ## Laboratory_1
+
 - **point 1**: Contains the solution to: rank, trace, determinant, eigenvalues and eigenvectors.
 - **point 2**: Contains the folder with the profile pictures of the cohort and the solution to resize image, change to gray scale and calculate the difference between my personal photo vs the average of the cohort.
 - **point 3**: contains the unsupervised python package builded with poetry. Inside it there are the implementations to SVD, PCA and TSNE algorthmns and the .whl file to instalations.
@@ -14,5 +15,14 @@ This repository contains the solution to labs of the machine learning II course,
 - **point 9**: Contains a description of UMAP and a example of how implement it.
 - **point 10**: Contains a description of LDA and a example of how implement it.
 - **point 11**: Contains the code to deploy an api created with flask and flask-restfull, this api exposes and endpoint to predict the iris dataset classes. The model (KNN) was trained with 2 components generated with my personal PCA algorithm.
+
+## Laboratory_2
+
+* point 1: Spectral Clustering
+* point 2: DBSCAN
+* point 3: Elbow Method and its fawls
+* point 4: Implementation of kmeans and kmedoids algorithms in a new unsupervised package version
+* point 5: Implementation of kmeans and kmedoids from the unsupervised package with silhouette metric analisis
+* point 6: Implementation ok kmeans, kmedoids, spectral and bdbscan from scikit-learn on 5 differents datasets
 
 The requirements.txt files contains all libraries used.
