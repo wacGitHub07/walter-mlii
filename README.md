@@ -25,4 +25,8 @@ This repository contains the solution to labs of the machine learning II course,
 * point 5: Implementation of kmeans and kmedoids from the unsupervised package with silhouette metric analisis
 * point 6: Implementation ok kmeans, kmedoids, spectral and bdbscan from scikit-learn on 5 differents datasets
 
+## Laboratory_2
+
+* Implementation of course techniques on the degree project
+
 The requirements.txt files contains all libraries used.
